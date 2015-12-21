@@ -2,4 +2,4 @@
 
 #simple note-taking script
 
-echo $1 >> ~/notes.txt
+echo $* >> ~/notes.txt
